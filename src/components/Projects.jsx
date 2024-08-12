@@ -5,7 +5,8 @@ const videoSources = [
   "/NewfieStock2.mp4",
   "/NewfieStock3.mp4",
   "/DogGallery.mp4",
-  "/DoggieDaySpaw.mp4"
+  "/DoggieDaySpaw.mp4",
+  "/ScoreBoard.mp4"
 ];
 
 const Projects = () => {
