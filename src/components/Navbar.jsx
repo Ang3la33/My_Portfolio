@@ -7,7 +7,7 @@ const Navbar = () => {
     <div>
       <ul>
       <li>
-          <a href="https://www.linkedin.com/in/angela-flynn-4aa354278/" target="_blank" rel="noopener noreferrer">
+          <a href="https://www.linkedin.com/in/angela-flynn-smith-4aa354278/" target="_blank" rel="noopener noreferrer">
             <i className="fab fa-linkedin"></i>
           </a>
           <a href="https://github.com/Ang3la33" className='github' target="_blank" rel="noopener noreferrer">
